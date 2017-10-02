@@ -1,2 +1,4 @@
-# resource
-resource repository
+resource
+================
+
+다른 곳에 사용할 리소스 링크를 위한 저장소
